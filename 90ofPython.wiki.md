@@ -1,1 +1,1 @@
-Converting 90ofPython.wiki ---
+http://www.slideshare.net/MattHarrison4/learn-90

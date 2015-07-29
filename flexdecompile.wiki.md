@@ -1,1 +1,1 @@
-Converting flexdecompile.wiki ---
+http://dougmccune.com/blog/2008/09/21/i-just-decompiled-a-decompiler-so-i-could-use-it-to-decompile-itself/

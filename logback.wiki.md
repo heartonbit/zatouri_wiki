@@ -1,1 +1,3 @@
-Converting logback.wiki ---
+log4j to logback
+
+http://logback.qos.ch/reasonsToSwitch.html

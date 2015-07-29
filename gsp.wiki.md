@@ -1,1 +1,1 @@
-Converting gsp.wiki ---
+발제자 : 이정훈

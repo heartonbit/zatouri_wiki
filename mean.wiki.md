@@ -1,1 +1,1 @@
-Converting mean.wiki ---
+http://www.slideshare.net/deview/d2-3mean

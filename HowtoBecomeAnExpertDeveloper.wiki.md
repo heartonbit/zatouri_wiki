@@ -1,1 +1,1 @@
-Converting HowtoBecomeAnExpertDeveloper.wiki ---
+http://www.moreagile.net/2014/12/HowtoBecomeAnExpertDeveloper.html

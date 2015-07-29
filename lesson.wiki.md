@@ -1,1 +1,2 @@
-Converting lesson.wiki ---
+발제 : 이소윤
+

@@ -1,1 +1,1 @@
-Converting pastebin.wiki ---
+http://pastebin.com/

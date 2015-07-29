@@ -1,1 +1,1 @@
-Converting aboutmemory.wiki ---
+http://www.ualberta.ca/CNS/RESEARCH/LinuxClusters/mem.html

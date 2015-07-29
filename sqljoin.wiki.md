@@ -1,1 +1,1 @@
-Converting sqljoin.wiki ---
+![http://dev-spin-lab.de/wp-content/uploads/2009/11/sqljoins2.png](http://dev-spin-lab.de/wp-content/uploads/2009/11/sqljoins2.png)

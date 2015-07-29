@@ -1,1 +1,1 @@
-Converting freemsebooks.wiki ---
+http://www.microsoftvirtualacademy.com/ebooks

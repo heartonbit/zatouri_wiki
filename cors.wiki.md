@@ -1,1 +1,1 @@
-Converting cors.wiki ---
+http://www.html5rocks.com/en/tutorials/cors/

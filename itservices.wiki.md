@@ -1,1 +1,1 @@
-Converting itservices.wiki ---
+http://www.2mozak.com/index.php?document_srl=1527&mid=manual_board

@@ -1,1 +1,1 @@
-Converting nircmd.wiki ---
+http://www.nirsoft.net/utils/nircmd.html

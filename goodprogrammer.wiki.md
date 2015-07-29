@@ -1,1 +1,1 @@
-Converting goodprogrammer.wiki ---
+http://www.slideshare.net/devcatpublications/ndc2011-8253120

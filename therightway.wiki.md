@@ -1,1 +1,1 @@
-Converting therightway.wiki ---
+http://www.jstherightway.org/

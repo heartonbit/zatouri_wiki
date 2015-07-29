@@ -1,1 +1,1 @@
-Converting dotnet2015.wiki ---
+http://blogs.msdn.com/b/bethmassi/archive/2015/02/25/understanding-net-2015.aspx

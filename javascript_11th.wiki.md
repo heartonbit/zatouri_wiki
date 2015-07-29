@@ -1,1 +1,2 @@
-Converting javascript_11th.wiki ---
+일자 : 5/14 (수)
+발제 : 이정훈
